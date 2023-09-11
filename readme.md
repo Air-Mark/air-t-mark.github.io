@@ -1,1 +1,1 @@
-![image_test](foo.png)
+![image_test](manager/logo.png)
